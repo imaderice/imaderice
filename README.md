@@ -2,6 +2,7 @@
 
 My fiancee made me learn coding so here I am 🤪
 
+![man poof](./man%20poof.png)
 
 <!--
 **imaderice/imaderice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
