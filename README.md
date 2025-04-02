@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My fiancee made me learn coding so here I am 🤪
+My husband made me learn coding so here I am 🤪
 
 ![man poof](./man%20poof.png)
 
